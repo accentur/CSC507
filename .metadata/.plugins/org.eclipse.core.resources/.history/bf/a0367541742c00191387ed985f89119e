@@ -1,0 +1,21 @@
+package com.sample.model;
+
+public class CustomerProfile {
+	
+	private String firstname;
+	
+	private String firstname;
+	
+	private String firstname;
+	
+	private String firstname;
+	
+	private String firstname;
+	
+	private String firstname;
+	
+	private String firstname;
+	
+	
+
+}

@@ -1,0 +1,12 @@
+INDEX VERSION 1.4+C:\SaintRoseAll\SoftwareEngineering\Workspace\GroupProjImpor\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+631307265.index
+1483523498.index
+4280372776.index
+413008983.index
+874608474.index
+1659306432.index
+3609167921.index
+467852764.index
+1134350896.index
+1659306432.index
+501272246.index
